@@ -30,7 +30,6 @@ I'm a passionate developer with a love for solving problems and building impactf
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x0pharaoh&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x0pharaoh&layout=compact&theme=radical)
 
 ---

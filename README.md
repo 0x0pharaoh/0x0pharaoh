@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a passionate developer with a love for solving problems and building impactful projects. Here's a bit about me:
+I'm a passionate developer with a love for solving problems and building impactful projects.
 
 ---
 

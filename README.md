@@ -1,11 +1,2 @@
-### Hi there! 👋
+🚀 professional dedicated to building robust, scalable, and maintainable software systems. 💡 Combining deep technical expertise with a product-oriented mindset to lead complex initiatives, solve challenging problems, and deliver long-term business value through technology. ⚡
 
-I'm a passionate developer with a love for solving problems and building impactful projects.
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently focused on competitive programming and full-stack development.
-- 🌱 Always exploring new technologies and honing my problem-solving skills.
-- 🏆 Competitive programmer on platforms like [LeetCode](https://leetcode.com/u/pharaoh02/) and [Codeforces](https://codeforces.com/profile/6d6f696e).
